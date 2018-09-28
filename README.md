@@ -19,3 +19,5 @@ básicamente es presionar siguiente siguiente.
 8.- En el transcurso de esta semana subo los demas ejemplos vistos en clase. 
 
 9.- Sigue regresión contraida(Ridge, Lasso) y logística.
+
+10.- Subí lo qu estan trabajando con Rodrigo en clase y sus notas. En la parte final de éstas hay una tarea, tienen que resolverla. Para lo cual ya se subio el archivo y un notebook.
