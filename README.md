@@ -22,3 +22,5 @@ básicamente es presionar siguiente siguiente.
 9.- Sigue regresión contraida(Ridge, Lasso) y logística.
 
 10.- Subí lo que estan trabajando con Rodrigo en clase y sus notas. En la parte final de éstas hay una tarea, tienen que resolverla. Para lo cual ya se subio el archivo y un notebook.
+
+11. Subí una nueva tarea y su archivo csv correspondiente. Saludos
