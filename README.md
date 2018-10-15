@@ -24,3 +24,5 @@ básicamente es presionar siguiente siguiente.
 10.- Subí lo que estan trabajando con Rodrigo en clase y sus notas. En la parte final de éstas hay una tarea, tienen que resolverla. Para lo cual ya se subio el archivo y un notebook.
 
 11. Subí una nueva tarea y su archivo csv correspondiente. Saludos
+
+12. Ya se encuentra la nueva tarea disponible, tendran que implementar ascenso de colina con reinicio aleatorio y Simulated Annealing, también podrá encontrar un notebook con la función costo implementada y una ayuda extra. 
